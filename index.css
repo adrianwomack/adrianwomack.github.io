@@ -1,0 +1,45 @@
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}
+ 
+.home-container5 {
+  display: contents;
+}
+ 
+.home-thq-hero-name-elm {
+  height: 99px;
+}
+ 
+.home-thq-hero-subtitle-elm {
+  height: 48px;
+}
+ 
+.home-thq-hero-bio-elm {
+  height: 139px;
+}
+ 
+.home-container6 {
+  display: none;
+}
+ 
+.home-container7 {
+  display: contents;
+}
+ 
+.home-container8 {
+  display: none;
+}
+ 
+.home-container9 {
+  display: contents;
+}
